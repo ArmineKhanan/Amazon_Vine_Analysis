@@ -7,7 +7,7 @@ In this project, you’ll have access to approximately 50 datasetsone of which s
 
 ## Results
 ### ETL on Amazon Product Reviews
-
+from all the 50 datasets accaessed through the [link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) provided, we picked US reviews dataset for software solutions.
 ###  Bias of Vine Reviews
 There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
 
