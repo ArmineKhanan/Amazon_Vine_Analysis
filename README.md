@@ -7,8 +7,7 @@ In this project, you’ll have access to approximately 50 datasets, one of which
 
 ## Results
 ### ETL on Amazon Product Reviews
-From all the 50 datasets accaessed through the [link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) provided, we picked US reviews dataset for software solutions. The ETL process for extracting data from the source, it's modification and creation of tables for the normalised database can be examined in the [.ipynb file](https://github.com/ArmineKhanan/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) of the currrent repository.
-
+From all the 50 datasets accessed through the [link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) provided, we picked the US reviews dataset for software solutions. The ETL process for extracting data from the source, its modification, and the creation of tables for the normalized database can be examined in the [.ipynb file](https://github.com/ArmineKhanan/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) of the current repository.
 ###  Bias of Vine Reviews
 1. In total there are 341931 reviews in vine_df table.
 2. 153947, 45.0% of which are 5-star reviews.
