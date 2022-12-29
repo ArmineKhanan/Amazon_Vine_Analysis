@@ -10,7 +10,12 @@ In this project, you’ll have access to approximately 50 datasetsone of which s
 from all the 50 datasets accaessed through the [link](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) provided, we picked US reviews dataset for software solutions. The ETL process for extracting data from the source, it's modification and creation of tables for the normalised database can be examined in the [.ipynb file](https://github.com/ArmineKhanan/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb) of the currrent repository.
 
 ###  Bias of Vine Reviews
-There is a bulleted list that addresses the three questions for unpaid and paid program reviews (7 pt)
+1. In total there are 341931 reviews in vine_df table.
+2. 153947, 45.0% of wich are 5-star reviews.
+3. 32.5% and 45.4% of all 5-star reviews are paid and unpaid respectively.
+From the data above (3) we can infer that the ratio of 5-star reviews is bigger in case of unpaid reviews. In other words positive feedbacks are more prbable to happen unpaid/voluntary revies.
+4. 2.2% of 5-star reviews are paid, the rest 97.8% are unpaid.
+The last finding (4) showcases the owherwhelming contribution of unpaid reviews to the overall amount of 5-star grades.
 
 ## Summary
 
