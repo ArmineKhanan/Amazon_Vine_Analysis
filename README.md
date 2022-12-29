@@ -12,10 +12,8 @@ from all the 50 datasets accaessed through the [link](https://s3.amazonaws.com/a
 ###  Bias of Vine Reviews
 1. In total there are 341931 reviews in vine_df table.
 2. 153947, 45.0% of wich are 5-star reviews.
-3. 32.5% and 45.4% of all 5-star reviews are paid and unpaid respectively.
-From the data above (3) we can infer that the ratio of 5-star reviews is bigger in case of unpaid reviews. In other words positive feedbacks are more prbable to happen unpaid/voluntary revies.
-4. 2.2% of 5-star reviews are paid, the rest 97.8% are unpaid.
-The last finding (4) showcases the owherwhelming contribution of unpaid reviews to the overall amount of 5-star grades.
+3. 32.5% and 45.4% of all 5-star reviews are paid and unpaid respectively. That is, the ratio of 5-star reviews is bigger in case of unpaid reviews. In other words positive feedbacks are more prbable to happen unpaid/voluntary revies.
+4. 2.2% of 5-star reviews are paid, the rest 97.8% are unpaid. In other words, the owherwhelming contribution of unpaid reviews to the overall amount of 5-star grades.
 
 ## Summary
 
