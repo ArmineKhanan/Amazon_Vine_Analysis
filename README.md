@@ -20,4 +20,12 @@ The last finding (4) showcases the owherwhelming contribution of unpaid reviews 
 ## Summary
 
 To statistically prove the existance of bias the ran a statistical test.
+<b>Null Hypothesis:</b> There is no difference in the percentage of 5-star reviews among paid and unpaid feedbacks.
+<b>Alternate Hypothesis:</b> The percentage of 5-star reviews among paid feedbacks differs from the one observed for unpaid feedbacks.
+
+To assess the truth of the Null Hypothesis we delivered a Chi Sqaure test and got the results presented in the image below:
+<kbd><img src="https://github.com/ArmineKhanan/Amazon_Vine_Analysis/blob/main/extra_analysis.png" width="800" /></kbd>
+
+Based on the results (low P-Value) we <b>rejected the Null Hypothesis</b> and confimed that the percentage of 5-star reviews are significantly higher among paid feedbacks.
+
 
